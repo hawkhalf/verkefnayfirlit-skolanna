@@ -12,7 +12,7 @@ import { ExternalLink } from "lucide-react";
 
 
 const SCHOOLS = ["Bifröst", "UNAK", "LHÍ", "LBHÍ", "HÍ", "hjh"];
-const GROUPS = ["Nám og kennsla", "Mannauðshópur", "Grunnkerfishópur", "Vöruhús"];
+const GROUPS = ["Nám og kennsla", "Mannauðshópur", "Hópstjórafundur", "Vöruhús"];
 const SCHOOL_COLOURS = { Bifröst: "#004a80", UNAK: "#c1121f", LHÍ: "#374151", LBHÍ: "#15803d", HÍ: "#10099f", hjh: "#78236b" };
 const SCHOOL_LOGOS = {
   "HÍ": hiLogo,
