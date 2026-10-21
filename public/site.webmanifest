@@ -1,0 +1,16 @@
+{
+    "name": "Málaskrá",
+    "short_name": "Málaskrá",
+    "start_url": "/verkefnayfirlit-skolanna/",
+    "scope": "/verkefnayfirlit-skolanna/",
+    "display": "standalone",
+    "background_color": "#111827",
+    "theme_color": "#111827",
+    "icons": [
+      {
+        "src": "malaskra_logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
